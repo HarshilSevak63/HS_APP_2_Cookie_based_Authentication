@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\",
+  "WorkspaceRootPath": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|c:\\users\\harshil\\source\\repos\\hs_app_1\\hs_app_1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|c:\\users\\harshil\\source\\repos\\hs_app_1\\hs_app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|c:\\users\\harshil\\source\\repos\\hs_app_1\\hs_app_1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|c:\\users\\harshil\\source\\repos\\hs_app_1\\hs_app_1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|c:\\users\\harshil\\source\\repos\\hs_app_1\\hs_app_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|c:\\users\\harshil\\source\\repos\\hs_app_1\\hs_app_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3BC5EDE-47A3-4425-BC18-B2BCC1EB3DF4}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HS_APP_1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "HS_APP_1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -51,39 +51,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HS_APP_1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "HS_APP_1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T04:21:53.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Program.cs",
+              "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Program.cs",
               "RelativeDocumentMoniker": "HS_APP_1\\Program.cs",
-              "ToolTip": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Program.cs",
+              "ToolTip": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Program.cs",
               "RelativeToolTip": "HS_APP_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T04:16:19.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "HS_APP_1\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "HS_APP_1\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-14T04:03:31.037Z",
               "EditorCaption": ""
@@ -92,22 +92,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "HS_APP_1\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Controllers\\AccountController.cs",
               "RelativeToolTip": "HS_APP_1\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T03:45:15.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Models\\LoginViewModel.cs",
+              "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "HS_APP_1\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\HARSHIL\\source\\repos\\HS_APP_1\\HS_APP_1\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Models\\LoginViewModel.cs",
               "RelativeToolTip": "HS_APP_1\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,11 +1,13 @@
 using System.Diagnostics;
 using HS_APP_1.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HS_APP_1.Controllers
 {
     public class HomeController : Controller
     {
+        [Authorize]
         public IActionResult Index()
         {
             if (HttpContext.Session.GetString("User") == null){
