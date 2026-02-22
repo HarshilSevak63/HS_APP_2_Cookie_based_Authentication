@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|d:\\.net-code\\hs_app_2_cookie_based_authentication\\hs_app_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2365B8B1-EA73-7289-B48D-9ACE55106897}|HS_APP_1\\HS_APP_1.csproj|solutionrelative:hs_app_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HS_APP_1\\Views\\Shared\\_Layout.cshtml",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HS_APP_1\\Controllers\\HomeController.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Program.cs",
               "RelativeDocumentMoniker": "HS_APP_1\\Program.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "HS_APP_1\\Views\\Account\\Login.cshtml",
@@ -90,20 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "HS_APP_1\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Controllers\\AccountController.cs",
               "RelativeToolTip": "HS_APP_1\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T03:45:15.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "HS_APP_1\\Models\\LoginViewModel.cs",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\HS_APP_1.csproj",
+      "projectUniqueName": "D:\\Sem-5 Data\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\HS_APP_1.csproj",
       "projectName": "HS_APP_1",
-      "projectPath": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\HS_APP_1.csproj",
+      "projectPath": "D:\\Sem-5 Data\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\HS_APP_1.csproj",
       "packagesPath": "C:\\Users\\HARSHIL\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\obj\\",
+      "outputPath": "D:\\Sem-5 Data\\.NET-CODE\\HS_APP_2_Cookie_based_Authentication\\HS_APP_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
